@@ -8,6 +8,8 @@ public class Sdet {
 		
 		String y = "Hola";
 		
+		String z = "Mi nuevo script";
+		
 		String f = "Nuevo script";
 
 	}
