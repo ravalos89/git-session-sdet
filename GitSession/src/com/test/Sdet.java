@@ -7,6 +7,8 @@ public class Sdet {
 		String x = "Hello";
 		
 		String y = "Hola";
+		
+		String f = "Nuevo script";
 
 	}
 
